@@ -16,7 +16,7 @@
 <p>🌱 I'm currently studying Systems Analysis and Development, aiming to explore as many areas as possible.</p>
 <p>📫 How to reach me https://linktr.ee/MaryaAlexandre</p>
 <p>😄 Pronouns: My pronouns are she/her/hers.</p>
-<p> Fun fact: I also have a great interest in cinematography, film directing, and cinema in general. If I weren't so into technology, I would pursue a career in the film industry. You can even check out my Letterboxd profile at https://boxd.it/7PciH.</p>
+<p>Fun fact: I also have a great interest in cinematography, film directing, and cinema in general. If I weren't so into technology, I would pursue a career in the film industry. You can even check out my Letterboxd profile at https://boxd.it/7PciH.</p>
 
 </br>
 
@@ -27,13 +27,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" title="Python" alt="Sara-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
-  <img align="center" title="HTML5" alt="Sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS3" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JavaScript" alt="Sara-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Sara-Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" title="Adobe Illustrator" alt="Sara-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
-  <img align="center" title="Adobe Photoshop" alt="Sara-APhotoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+  <img align="center" title="Python" alt="Marya-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
+  <img align="center" title="HTML5" alt="Marya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS3" alt="Marya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="JavaScript" alt="Marya-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Marya-Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" title="Adobe Illustrator" alt="Marya-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+  <img align="center" title="Adobe Photoshop" alt="Marya-APhotoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 </div>
 
 </br>
@@ -43,9 +43,7 @@
   <a href = "mailto:maryaeduardaa333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
   
-##
- 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaryaAlexandre)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
