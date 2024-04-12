@@ -48,13 +48,10 @@
 <div> 
   <a href="https://instagram.com/maryaalexandree" target="_blank" rel="noopener noreferrer" title="Instagram"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:maryaeduardaa333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/MaryaAlexandre/MaryaAlexandre/blob/output/github-contribution-grid-snake.svg)
-  
-
-
-
-
+    
+</div>
+<div>
+    ![Snake animation](https://github.com/MaryaAlexandre/MaryaAlexandre/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
