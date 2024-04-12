@@ -40,7 +40,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaryaAlexandre/MaryaAlexandre/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaryaAlexandre/MaryaAlexandre/output/github-contribution-grid-snake.svg">
 </picture>
-     [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaryaAlexandre)](https://github.com/anuraghazra/github-readme-stats)
      
 </div>
 
@@ -51,6 +50,7 @@
   <a href = "mailto:maryaeduardaa333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://linktr.ee/MaryaAlexandre" target="_blank" rel="noopener noreferrer" title="Linktree"> <img src="https://img.shields.io/badge/-Linktree-%23000000?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
 </div>
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaryaAlexandre)](https://github.com/anuraghazra/github-readme-stats)
+     
 
 </body>
