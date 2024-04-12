@@ -51,5 +51,6 @@
 
   
 </div>
+![Snake animation](https://github.com/MaryaAlexandre/MaryaAlexandre/blob/output/github-contribution-grid-snake.svg)
   
 </body>
