@@ -11,12 +11,10 @@
   
 <body>
 
-<h2> Hi, my name is Marya Alexandre. It's a pleasure to meet you!👋 </h2>
-<p>👀 I'm interested in the fullstack development field as well as data protection area, but I also have a strong affinity for UX/UI and design.</p>
-<p>🌱 I'm currently studying Systems Analysis and Development, aiming to explore as many areas as possible.</p>
-<p>📫 How to reach me https://linktr.ee/MaryaAlexandre</p>
-<p>😄 Pronouns: My pronouns are she/her/hers.</p>
-<p>Fun fact: I also have a great interest in cinematography, film directing, and cinema in general. If I weren't so into technology, I would pursue a career in the film industry. You can even check out my Letterboxd profile at https://boxd.it/7PciH.</p>
+<h2> Olá, eu sou a Marya prazer e te conhecer. </h2>
+<p>👀 Tenho interesse na área de desenvolvimento fullstack e também na área de proteção de dados, mas também tenho grande afinidade por UX/UI e design.</p>
+<p>🌱Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com o objetivo de explorar o máximo de áreas possível.</p>
+<p>📫 Como entrar em contato comigo https://linktr.ee/MaryaAlexandre</p>
 
 </br>
 
