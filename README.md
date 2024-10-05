@@ -12,7 +12,7 @@
 <body>
 
 <h2> Olá, eu sou a Marya prazer em te conhecer. </h2>
-<p>👀 Tenho interesse na área de desenvolvimento fullstack e também na área de proteção de dados, mas também tenho grande afinidade por UX/UI e design.</p>
+<p>👀 Desenvolvedora com foco em análise de dados, formação de dashboards e power apps.</p>
 <p>🌱Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com o objetivo de explorar o máximo de áreas possível.</p>
 <p>📫 Como entrar em contato comigo https://linktr.ee/MaryaAlexandre</p>
 
