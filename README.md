@@ -14,7 +14,7 @@
 <h2> Olá, eu sou a Marya prazer em te conhecer. </h2>
 <p>👀 Desenvolvedora com foco em análise de dados, formação de dashboards e power apps.</p>
 <p>🌱Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com o objetivo de explorar o máximo de áreas possível.</p>
-<p>📫 Como entrar em contato comigo https://linktr.ee/MaryaAlexandre</p>
+<p>📫 Como entrar em contato comigo https://www.linkedin.com/in/marya-eduarda-alexandre/</p>
 
 </br>
 
@@ -35,7 +35,7 @@
 </br>
  
 <div> 
-  <a href="https://instagram.com/maryaalexandree" target="_blank" rel="noopener noreferrer" title="Instagram"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   <a href = "mailto:maryaeduardaa333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://linktr.ee/MaryaAlexandre" target="_blank" rel="noopener noreferrer" title="Linktree"> <img src="https://img.shields.io/badge/-Linktree-%23000000?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
 </div>
