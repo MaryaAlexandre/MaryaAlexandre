@@ -12,7 +12,7 @@
 <body>
 
 <h2> Olá, eu sou a Marya prazer em te conhecer. </h2>
-<p>👀 Desenvolvedora com foco em análise de dados, formação de dashboards e power apps.</p>
+<p>👀 Desenvolvedora com foco em desenvolvimento web, prototipação UX/UI e programação front-end</p>
 <p>🌱Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com o objetivo de explorar o máximo de áreas possível.</p>
 <p>📫 Como entrar em contato comigo https://www.linkedin.com/in/marya-eduarda-alexandre/</p>
 
