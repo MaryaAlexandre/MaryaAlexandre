@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/marya-eduarda-alexandre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
