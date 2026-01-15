@@ -1,33 +1,67 @@
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-  
-<body>
-
-<h2>Olá, eu sou a Marya, prazer em te conhecer! 👋</h2>
-
-<p>💻 Desenvolvedora <strong>Fullstack</strong>, com foco em <strong>Django (Python)</strong> no back-end e <strong>React + Vite</strong> no front-end.</p>
-<p>🌱 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> e atuo como fullstack no projeto <strong>iFocus</strong> em parceria com o <strong>MEC</strong>.</p>
-<p>📫 Vamos nos conectar? <a href="https://www.linkedin.com/in/marya-eduarda-alexandre/" target="_blank">Meu LinkedIn</a></p>
-
-<br>
-
-<div style="display: inline_block"><br>
-  <img align="center" title="Python" alt="Marya-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>       
-  <img align="center" title="Django" alt="Marya-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="center" title="React" alt="Marya-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" title="Vite" alt="Marya-Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
-  <img align="center" title="HTML5" alt="Marya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" title="CSS3" alt="Marya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Marya-Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
 </div>
 
-<br>
+<br/>
 
-</body>
-</html>
+<div align="center">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<h1 align="center">Olá, eu sou a Marya 👋</h1>
+
+<p align="center">
+  <strong>Desenvolvedora Fullstack • Django (Python) • React + Vite</strong>
+</p>
+
+---
+
+## 👩‍💻 Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFRN.  
+
+💻 Atuo como **desenvolvedora fullstack**, com foco em **Django (back-end)** e **React + Vite (front-end)**.  
+
+🚀 Atualmente participo do projeto **iFocus**, em parceria com o MEC.  
+
+📚 Interesse em desenvolvimento web, boas práticas, testes e arquitetura de software.  
+
+⚡ No tempo livre, gosto de aprender novas tecnologias e transformar ideias em projetos reais.
+
+---
+
+## 🛠️ Linguagens e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</div>
+
+<br/>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</div>
+
+---
+
+## 🧪 Testes & Backend
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/img/pytest_logo_curves.svg" height="40" title="Pytest"/>
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" height="40" title="Cypress"/>
+</div>
+
+---
+
+<h3 align="center">✨ Vamos nos conectar e construir coisas incríveis!</h3>
