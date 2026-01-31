@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou a Marya 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedora Fullstack • Django (Python) • React + Vite</strong>
+  <strong>Desenvolvedora Fullstack • Django (Python) • React + Vite  • Vue </strong>
 </p>
 <br>
 <div align="center">
