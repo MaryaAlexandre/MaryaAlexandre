@@ -19,9 +19,11 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFRN.  
 
-💻 Atuo como **desenvolvedora fullstack**, com foco em **Django (back-end)** e **React + Vite (front-end)**.  
+💻 Atuo como **desenvolvedora fullstack**, com foco em **Django (back-end)** e **React + Vite, Vue para Fluig (front-end)**.
 
-🚀 Atualmente participo do projeto **iFocus**, em parceria com o MEC.  
+📝 Atualmente participo como bolsista do projeto **iFocus**, em parceria com o MEC. 
+</> Estágiaria de Desenvolvimento de Processos para Strategi Consultoria.
+
 
 ---
 
