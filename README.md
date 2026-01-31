@@ -22,7 +22,8 @@
 💻 Atuo como **desenvolvedora fullstack**, com foco em **Django (back-end)** e **React + Vite, Vue para Fluig (front-end)**.
 
 📝 Atualmente participo como bolsista do projeto **iFocus**, em parceria com o MEC. 
-</> Estágiaria de Desenvolvimento de Processos para Strategi Consultoria.
+
+👩🏻‍💻 Estágiaria de Desenvolvimento de Processos para Strategi Consultoria.
 
 
 ---
