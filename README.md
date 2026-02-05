@@ -23,7 +23,7 @@
 
 📝 Atualmente participo como bolsista do projeto **iFocus**, em parceria com o MEC. 
 
-👩🏻‍💻 Estágiaria de Desenvolvimento de Processos para Strategi Consultoria.
+👩🏻‍💻 Desenvolvedora de Processos para Strategi Consultoria.
 
 
 ---
